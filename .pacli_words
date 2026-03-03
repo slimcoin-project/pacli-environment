@@ -1,7 +1,15 @@
-# ~/.pacli_words  (one pacli command per line)
+config
 deck
 card
 address
+transaction
+coin
+proposal
+donation
+token
+attoken
+pobtoken
+podtoken
 swap
-help
+checkpoint
 quit
